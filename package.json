@@ -2,7 +2,7 @@
   "name": "coin_hub",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://FayeLV.github.io/new-coin-hub",
   "dependencies": {
     "@tabler/icons-react": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.5",
